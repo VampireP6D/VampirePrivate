@@ -1,0 +1,11 @@
+const setup = {
+    OWNER_ID: ["7822996621"],
+    BOT_TOKEN: "7276423332:AAF45oTgICjssrqDHWGC_BsGYLxyssIgy-c", 
+    GITHUB_TOKEN: "github_pat_XXXXX",  // Ganti sama token lu
+    GITHUB_OWNER: "putraleomeko",
+    GITHUB_REPO: "floids",
+    GITHUB_FILE_PATH: "VampirePrivate/tokens.json", // Ubah path ini
+    GITHUB_MOD_FILE_PATH: "VampirePrivate/moderators.json"
+}
+
+module.exports = setup;
