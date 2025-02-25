@@ -1,11 +1,5 @@
-const setup = {
-    OWNER_ID: ["7822996621"],
-    BOT_TOKEN: "7276423332:AAF45oTgICjssrqDHWGC_BsGYLxyssIgy-c", 
-    GITHUB_TOKEN: "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",  // Ganti sama token lu
-    GITHUB_OWNER: "VampireP6D",
-    GITHUB_REPO: "VampirePrivate",
-    GITHUB_FILE_PATH: "VampirePrivate/Vampire.json", // Ubah path ini
-    GITHUB_MOD_FILE_PATH: "VampirePrivate/moderators.json"
+{
+  "botTokens": [
+    "7334216085:AAF_M6BEyJaRMelbdwbL6kV0Q7-O3BnA0rA"
+  ]
 }
-
-module.exports = setup;
