@@ -1,7 +1,8 @@
 {
-    "allowed_tokens": ["7861737019:AAF5Hxg42QLydt6GmPzyBljSCpHNimcMEtU","8085687910:AAG7pz9rm4lovkpj9BNlult5w7cSQ9MNtRE","7849162648:AAF1mZXtUWFSL1bcNfWslW5kl6azijDX_98","7311910182:AAH-0-hXXHt19CPgm-UTWqOaRMJ8aCnEPzQ"],
-    "resellers": [],
-    "mods": [],
-    "owners": [],
-    "developers": []
+    "allowed_tokens": [
+        "7861737019:AAF5Hxg42QLydt6GmPzyBljSCpHNimcMEtU",
+        "8085687910:AAG7pz9rm4lovkpj9BNlult5w7cSQ9MNtRE",
+        "7849162648:AAF1mZXtUWFSL1bcNfWslW5kl6azijDX_98",
+        "7311910182:AAH-0-hXXHt19CPgm-UTWqOaRMJ8aCnEPzQ"
+    ]
 }
